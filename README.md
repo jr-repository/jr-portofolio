@@ -1,4 +1,4 @@
-# vCard - Personal portfolio
+# jr - protfolio
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -19,9 +19,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing jr-portfolio
 
-To install **vCard**, follow these steps:
+To install **jr-portfolio**, follow these steps:
 
 Linux and macOS:
 
